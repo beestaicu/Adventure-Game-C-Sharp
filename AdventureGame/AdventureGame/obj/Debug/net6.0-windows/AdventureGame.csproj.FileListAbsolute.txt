@@ -1,0 +1,34 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\refint\AdventureGame.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\ref\AdventureGame.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.MainForm.resources
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.exe
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.deps.json
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.runtimeconfig.json
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.dll
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.pdb
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.MainForm.resources
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.GenerateResource.cache
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.AssemblyInfo.cs
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.dll
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\refint\AdventureGame.dll
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.pdb
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.genruntimeconfig.cache
+C:\Users\beest\Documents\GitHub\Adventure-Game-C-Sharp\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\ref\AdventureGame.dll
